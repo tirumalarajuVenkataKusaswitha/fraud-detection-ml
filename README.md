@@ -36,7 +36,8 @@ This project focuses on detecting fraudulent credit card transactions using mach
 The models achieved strong performance on minority fraud classes using imbalanced learning techniques, significantly improving recall without sacrificing precision.
 
 ##  Dataset
-Public credit card transaction dataset (imbalanced).
+Public credit card transaction dataset  link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## 👤 Author
-**Kushi Tirumalaraju**
+**Venkata Kusaswitha Tirumalaraju**
+
